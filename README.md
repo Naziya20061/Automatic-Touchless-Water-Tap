@@ -48,4 +48,6 @@ Hardware prototype.
 
 ## Project Gallery
 
-Photos of the hardware setup, circuit connections, and project demonstration will be added here.
+This is the hardware prototype of our Automatic Touchless Water Tap, showing the sensor module, circuit connections, power supply, and water tubing.
+
+![Automatic Touchless Water Tap Prototype](touchless%20water%20tap%20%28project%201%29.jpeg)
